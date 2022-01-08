@@ -10,9 +10,9 @@ int gateStart = 90;
 int gateEnd = 180;
 int gateOpenTime = 200;
 
-char auth[] = "gyFYeygYpetXZhg9MGUFgTB-GK_KCPjO";
-char ssid[] = "RC KEPO";
-char pass[] = "nasigoreng13k";
+char auth[] = "xxxxx";
+char ssid[] = "xxxxx";
+char pass[] = "xxxxx";
 
 void setup()
 {
